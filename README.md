@@ -1,0 +1,1 @@
+# Gerador-de_Respostas-Estruturadas-com-IA-Langchain-Groq-
