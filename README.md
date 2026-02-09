@@ -8,6 +8,7 @@ Propósito do projeto
 Como a IA responde
 - A IA é instruída via Prompt Engineering a responder somente em JSON, obedecendo rigorosamente a um contrato de saída pré-definido.
 Exemplo de resposta esperada:
+
 {
   "titulo": "Introdução ao Python",
   "descricao": "Python é uma linguagem de programação simples e versátil...",
