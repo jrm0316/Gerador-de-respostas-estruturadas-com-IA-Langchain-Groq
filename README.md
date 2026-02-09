@@ -67,7 +67,8 @@ Como executar o projeto
       python gerador_json_ia.py
 
 
-Alterando o tema analisad
+Alterando o tema analisado
+
 O tema é alterado diretamente na chamada da chain:
 
       prompt_final = prompt.format(tema="Python")
