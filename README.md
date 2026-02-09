@@ -38,8 +38,11 @@ Tecnologias e conceitos utilizados
 
 Estrutura do projeto
 projeto/
+
 ├── gerador_json_ia.py
+
 ├── .env
+
 └── README.md
 
 Diferencial:
