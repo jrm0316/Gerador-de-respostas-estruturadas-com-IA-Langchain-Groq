@@ -10,9 +10,11 @@ Como a IA responde
 Exemplo de resposta esperada:
 
 {
+    
     "titulo": "Introdução ao Python",
     "descricao": "Python é uma linguagem de programação simples e versátil...",
     "nivel": "iniciante"
+    
 }
 
 Esse padrão transforma a IA em uma função semântica, ideal para consumo por:
@@ -45,6 +47,7 @@ Diferencial:
 
 
 Como executar o projeto
+
   1.) Clone o repositório:
 
       git clone https://github.com/seu-usuario/Gerador-de-respostas-estruturadas-com-IA-Langchain-Groq
