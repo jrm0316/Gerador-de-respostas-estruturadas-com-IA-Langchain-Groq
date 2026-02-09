@@ -14,6 +14,7 @@ Exemplo de resposta esperada:
   "descricao": "Python é uma linguagem de programação simples e versátil...",
   "nivel": "iniciante"
 }
+
 Esse padrão transforma a IA em uma função semântica, ideal para consumo por:
 - Backends
 - APIs
