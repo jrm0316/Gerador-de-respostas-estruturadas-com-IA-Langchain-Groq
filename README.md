@@ -10,9 +10,9 @@ Como a IA responde
 Exemplo de resposta esperada:
 
 {
-  "titulo": "Introdução ao Python",
-  "descricao": "Python é uma linguagem de programação simples e versátil...",
-  "nivel": "iniciante"
+    "titulo": "Introdução ao Python",
+    "descricao": "Python é uma linguagem de programação simples e versátil...",
+    "nivel": "iniciante"
 }
 
 Esse padrão transforma a IA em uma função semântica, ideal para consumo por:
